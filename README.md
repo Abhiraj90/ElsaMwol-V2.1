@@ -13,7 +13,7 @@
 <a href="#"><img title="MR-PO.V1.0" src="https://img.shields.io/badge/-MR%20PO v1.0-yellow?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Abhiraj"><img title="Author" src="https://img.shields.io/badge/Author-ABHIRAJ-PO/MR%20PO?color=Black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Abhiraj"><img title="Author" src="https://img.shields.io/badge/Author-ABHIRAJ90-PO/MR%20PO?color=Black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
