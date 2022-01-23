@@ -8,7 +8,7 @@
 
   <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+MR-PO-V1.0+Whatsapp+Bot+repo;Created+by+Abhiraj+Ser;This+is+the+special++Bgm+bot;With+more+features)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+MR-PO-V1.0+Whatsapp+Bot+repo;Created+by+Abhiraj;This+is+the+special++Bgm+bot;With+more+features)
 
 <a href="#"><img title="MR-PO.V1.0" src="https://img.shields.io/badge/-MR%20PO v1.0-yellow?&style=for-the-badge"></a>
 </p>
