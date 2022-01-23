@@ -5,10 +5,10 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+MR-PO-V1.0+Whatsapp+Bot+repo;Created+by+Abhiraj+Ser;This+is+the+special++Bgm+bot;With+more+features)
 
-<a href="#"><img title="MR-PO.V1.0" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
+<a href="#"><img title="MR-PO.V1.0" src="https://img.shields.io/badge/-MR%20PO v2.1-yellow?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/MR%20PO?color=Black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
