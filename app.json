@@ -1,14 +1,14 @@
-{
-    "name": "ElsaMowl-V2.1",
-    "description": "ELSAMWOL V-2.1 - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo": "https://user-images.githubusercontent.com/85656190/131213201-6f5a608f-ae16-449a-aa5c-9e02f860ccfe.jpg",
+ {
+    "name": "MR-PO.V1.0",
+    "description": "MR-PO.V1.0 - re-edited from asena. World’s first UserBot made for WhatsApp.",
+    "logo": "images-7.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/J-I-H-A-D/ElsaMwolV2.1",
+    "repository": "https://github.com/Abhiraj90/MR-PO",
     "website":   "under maintenance",
     "success_url": "under maintenance",
     "stack": "container",
     "env": {
-        "ElsaMowl_SESSION": {
+        "PO_SESSION": {
             "description": "Qr.Js Type here yours Asena Session.",
             "required": true
         },
@@ -94,7 +94,7 @@
          "BOT_NAME": {
             "description": "heading for .list command reply",
             "required": false,
-            "value": "•━━━━╼⤏ElsaMwol V-2.1⤎╾━━━•"
+            "value": "★᭄ꦿ᭄ꦿ𝔪𝔯-𝔭𝔬★᭄ꦿ᭄"
         },
         "HEROKU_API_KEY": {
             "description": "Herokuda API Keyiniz. Heroku API Key.",
@@ -131,7 +131,7 @@
             "value": "default"
         },
         "WORK_TYPE": {
-            "description": "ElsaMwol Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
+            "description": "MR-PO Working Type. If you use “public”, everyone can use the bot. Else if you use “private”, only you can use your bot.",
             "required": true,
             "value": "public"
         },
@@ -151,7 +151,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "i am alive  \n\n ```coded by Jihad```"
+            "value": "i am alive  \n\n ```coded by ABHI```"
         },
         "BAN_MESSAGE": {
             "description": "Customizable kick Message! Use => default, to change back.",
@@ -214,4 +214,4 @@
     "buildpacks": [{
       "url": "heroku-community/apt"
       }]
-  }
+  } 
