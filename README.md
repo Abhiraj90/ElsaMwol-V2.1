@@ -33,14 +33,12 @@
   
                                                 Subscriber My Channel More Updates Coming Soon..
 
-<p align="center">
-<a href="https://youtube.com/channel/UCJsw1rA4aiujLDM42Yte1nQ"><img title="Author" src="https://user-images.githubusercontent.com/85656190/125904681-fc8f3ca0-3c3d-4bd1-b852-6036a7efd8e4.jpg" width="300" height="300""></a>
-</p>
 
 
-## ðŸ“¢ Guide
+
+## Guide
   
-Click WA logo for Support ðŸ‘‡
+Click WA logo for Support
     <br>
 <br>
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G0BrTf7gVURBxPO1FSFxKc)
@@ -52,11 +50,11 @@ Click WA logo for Support ðŸ‘‡
 ## Setup
 <div align="center">
 
-  ### Simple Method
+  ### HOW TO MAKE 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/ElsaMwol)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jihad3321/ElsaMwol-V2.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhiraj90/MR-PO)
      </div>
 <br>
 <br >
