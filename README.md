@@ -8,11 +8,11 @@
 <a href="#"><img title="MR-PO.V1.0" src="https://img.shields.io/badge/-MR%20PO v2.1-yellow?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/MR%20PO?color=Black&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Abhiraj"><img title="Author" src="https://img.shields.io/badge/Author-ABHIRAJ-PO/MR%20PO?color=Black&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-   Project created by <a href="https://github.com/J-I-H-A-D">J-I-H-A-D</a> to make it public
+   Project created by <a href="https://github.com/Abhiraj90">ABHIRAJ</a> to make it public
     <br>
        Â© Reserved 
     <br>
