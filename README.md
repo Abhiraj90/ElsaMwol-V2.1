@@ -69,8 +69,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwolV2.1
-$ cd ElsaMwolV2.1
+$ git clone https://github.com/Abhiraj90/MR-PO
+$ cd MR-PO
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -80,8 +80,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol-V2.1
-$ cd ElsaMwol-V2.1
+$ git clone https://github.com/Abhiraj90/MR-PO
+$ cd MR-PO
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -94,13 +94,13 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, ABHI-SER do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
 
 
-Project created by JIHAD to make it public
+Project created by Abhiraj.ck to make it public
 
 Â© Reserved
 
