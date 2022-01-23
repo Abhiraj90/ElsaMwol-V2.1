@@ -1,7 +1,9 @@
 {
     "name": "MR-PO.V1.0",
     "description": "MR-PO.V1.0 - re-edited from asena. World’s first UserBot made for WhatsApp.",
-    "logo":"images-7.jpeg",
+    "logo":"div align="center">
+  <img border-radius: 15px src="20220123_151919.jpg" width="250" height="200"/>
+",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/Abhiraj90/MR-PO",
     "website":   "under maintenance",
