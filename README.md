@@ -57,7 +57,7 @@ Click WA logo for Support
 
   ### MR-PO🐼
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Abhiraj9/ElsaMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Abhiraj9/MR-PO)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Abhiraj90/MR-PO)
      </div>
